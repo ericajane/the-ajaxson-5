@@ -1,0 +1,29 @@
+div {
+  border:4px solid #4d9900;
+}
+.jumbotron {
+  background-color:  #664400;
+  color: #e6b800;
+}
+
+.center {
+  text-align:center;
+}
+p#error {
+  color:red;
+}
+
+.request {
+  background-color: #e6b800;
+  color:#664400;
+  padding:6px;
+}
+.verification {
+  background-color: #664400;
+  color:#e6b800;
+  padding:6px;
+}
+
+#img {
+  border:4px solid #4d9900;
+}
